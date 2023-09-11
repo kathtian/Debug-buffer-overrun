@@ -1,5 +1,5 @@
 # Debug-buffer-overrun
-Will use gdb to analyze the different sections of a given C code to debug its vulnerability on buffer overrun 
+This repository will use gdb to analyze the different sections of a given C code to debug its vulnerability on buffer overrun 
 
 Buffers provide a temporary area for programs to store data. A buffer overflow, also known as a buffer overrun, is when a program overruns a buffer's boundary and overwrites adjacent memory locations in the process.
 
